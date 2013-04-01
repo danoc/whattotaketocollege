@@ -1,0 +1,155 @@
+/*-----------------------------*\
+|--- What to Take to College ---| 
+\*-----------------------------*/
+
+
+/*--------- List Only ---------*/
+
+/*-- Basic --*/
+a {
+	color: #f79278;
+	text-decoration: none;
+}
+
+h2 {
+	color: #919191;
+	font-size: 1.7em;
+	padding: 0px 25px 10px 25px;
+	border-bottom: 1px solid #f0f1f2;
+	margin-bottom: 17px;
+}
+
+h3 {
+	color: #93B2DB;
+	padding: 0px 5px 5px 0px;
+	border-bottom: 1px solid #BFE0F9;
+	font-size: 1.5em;
+}
+
+/*-- #header --*/
+#sitedescription {
+	margin-top: 17px;
+	padding: 17px 17px 22px 45px;
+	border-top: solid 1px #ffded6;
+	border-bottom: solid 1px #ffded6;
+}
+
+#sitedescription p {
+	font-size: 1.7em;
+	line-height: 24px;
+	color: #959595;
+	margin: 0px;
+}
+
+#fbshare {
+	margin: 0px 25px 0px 0px;
+	float: right;
+}
+
+#adsense_linkunit {
+	/* The Top Ad */
+	text-align: center;
+	padding: 6px 0px 5px 0px;
+	border-bottom: solid 1px #e5e5e5;	
+}
+
+
+/*-- Content --*/
+.content {
+	margin-top: 33px;
+}
+
+
+/*-- List Stuff --*/
+.content ul li {
+	display:block;
+	list-style:none;
+	padding:5px 10px 5px 15px;
+	font-size: 12px;
+	border-bottom: 1px solid #f8d9d0;
+	line-height: 14px;
+}
+
+.content li li {
+	border-bottom: none;
+	border-top: 1px solid #f8d9d0;
+	margin: 3px -10px -3px -15px;
+	padding: 5px 0px 5px 30px;
+}
+
+.buy {
+	float: right;
+	margin-top: -2px;
+}
+
+.listblock { 
+	margin-bottom:25px;
+}
+
+#facebooklike {
+	background-color: #fffef5;
+	width: 438px;
+	float: left;
+	overflow: hidden;
+	display: inline;
+	margin: 0px 0px 15px 10px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid #ececec;
+}
+
+#facebooklike #instructions {
+	padding: 8px 9px 17px 20px;	
+}
+
+#facebooklike h4 {
+	color: #df6040;
+	padding: 0px 5px 3px 0px;
+	font-size: 15px;
+}
+
+#facebooklike p {
+	color: #7d7d7d;
+	font-size: 12px;
+	line-height: 17px;
+	margin: 0px 0px 5px 0px;
+}
+
+#facebooklike .text {
+	clear: both;	
+}
+
+#facebooklike .close {
+	float: right;
+}
+
+.listblock ul li img { 
+   visibility: hidden;
+}
+
+.listblock ul li:hover img { 
+	visibility: visible;
+}
+
+.listblock ul li ul li img { 
+	visibility: hidden !important;
+	margin-right: 10px;
+}
+
+.listblock ul li ul li:hover img { 
+	visibility: visible !important;
+	margin-right: 10px;
+}
+
+.squaregooglead {
+	margin-bottom: 25px;
+}
+
+
+/*-- Footer --*/
+#footer {
+	padding: 25px 10px 20px 0px !important;
+}
+
+/*-- Print --*/
+#logo-print {display:none;)

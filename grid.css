@@ -1,0 +1,48 @@
+.grid_1 { width:55px; }
+.grid_2 { width:130px; }
+.grid_3 { width:210px; }
+.grid_4 { width:280px; }
+.grid_5 { width:355px; }
+.grid_6 { width:430px; }
+.grid_7 { width:505px; }
+.grid_8 { width:580px; }
+.grid_9 { width:755px; }
+.grid_10 { width:730px; }
+.grid_11 { width:805px; }
+.grid_12 { width:880px; }
+
+.column {
+  float: left;
+  margin: 0 10px;
+  overflow: hidden;
+  display: inline;
+}
+
+.row {
+  width: 900px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.nolmargin {
+	margin: 0px 10px 0px 0px !important;	
+}
+
+.normargin {
+	margin: 0px 0px 0px 10px !important;	
+}
+
+.post_column {
+  float: left;
+  overflow: hidden;
+  display: inline;
+  width: 694px;
+}
+
+.sidebar_column {
+  float: left;
+  overflow: hidden;
+  display: inline;
+  width: 219px;
+  padding: 0px 17px 0px 20px;
+}
